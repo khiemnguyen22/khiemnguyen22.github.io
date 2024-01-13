@@ -11,7 +11,7 @@ Master of Science in Computer Science/ Bachelor of Science in Computer Science <
 **Solutions Engineer Associate - Northwestern Medicine** <br/>
 Jan 2023 - Present <br/>
 
-**Information Services Intern - Northwestern Medicine**
+**Information Services Intern - Northwestern Medicine** <br/>
 May 2023 – Dec 2023 
 - Create an OpenAI-powered summarization tool to reduce physician burnout by condensing every 5 days’ worth of patient notes to 5-bullet-point concise timelines.
 - Leverage Databricks to train a model classifying patients with high-risk of sleep disorder with 90.5% accuracy.
@@ -43,13 +43,13 @@ PyTorch, Windows, Linux, Git, Agile, Visual Studio Code, Azure DevOps, Azure, Az
 **Master’s Project** <br/>
 Jan 2023 - Dec 2023
 - Research and devise Uncertainty Estimation methods to provide a robust detection algorithm for Cerebral Microbleeds.
-- **technologies**: Pytorch, Tensorflow, Keras, Numpy 
+- **Technologies**: Pytorch, Tensorflow, Keras, Numpy 
 
 **Image Restoration Model** <br/>
 Feb 2022 - May 2022
 - Implemented an image denoising model using convolutional auto-encoders with symmetric skip connections on 7000 
 image patches, achieving a PSNR value of 25.46 for noise level = 10.
-- **technologies**: Tensorflow, Keras, Numpy, Pil
+- **Technologies**: Tensorflow, Keras, Numpy, Pil
 
 **Simple IR System** <br/>
 Feb 2022 - May 2022
@@ -62,10 +62,10 @@ Top-K ranked results to assist college students in choosing relevant courses bas
 Aug 2021 – May 2022
 - Developed a responsive front-end for an online math learning game targeted at middle school to high school students in a 
 team of 6 students following the Agile methodology.
-- **technologies**: React, Typescript, Microsoft Azure, Microsoft SQL Server
+- **Technologies**: React, Typescript, Microsoft Azure, Microsoft SQL Server
 
 **Uber IIT** <br/>
 Feb 2021 – May 2021
 - Devised an Uber clone application following an end-to-end software development process from defining requirements to 
 conducting unit tests
-- **technologies**: Android Studio, Java, Firebase, SQLite
+- **Technologies**: Android Studio, Java, Firebase, SQLite
