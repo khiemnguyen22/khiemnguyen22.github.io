@@ -1,4 +1,4 @@
-# Khiem Nguyen
+# Solutions Engineer
 
 ### Education
 Master of Science in Computer Science/ Bachelor of Science in Computer Science <br/>
@@ -28,7 +28,7 @@ Jan 2022 – June 2022
 - Built incremental learning models for classifying custom surgical tools based on an augmented dataset of 4,000 images
 - Developed an interactive React web interface for patients and doctors to keep track of notes from clinic visits
 
-**AI Intern TMA Solutions** <br/>
+**AI Intern - TMA Solutions** <br/>
 May 2021 – Aug 2021
 - Trained and tuned Face Recognition models with 70% accuracy, to be used in an employee’s attendance tracking system.
 - Created a data pipeline for crawling and labeling more than 6,000 images of vehicles using YOLOv5.
