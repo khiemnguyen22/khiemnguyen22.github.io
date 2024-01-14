@@ -50,11 +50,15 @@ Jan 2023 - Dec 2023
 - Research and devise Uncertainty Estimation methods to provide a robust detection algorithm for Cerebral Microbleeds.
 - **Technologies**: Pytorch, Tensorflow, Keras, Numpy 
 
+<img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/microbleed.jpg" height="200"/> <br/>
+
 **Image Restoration Model** <br/>
 Feb 2022 - May 2022
 - Implemented an image denoising model using convolutional auto-encoders with symmetric skip connections on 7000 
 image patches, achieving a PSNR value of 25.46 for noise level = 10.
 - **Technologies**: Tensorflow, Keras, Numpy, Pil
+
+<img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/image_restore.jpg" height="200"/> <br/>
 
 **Simple IR System** <br/>
 Feb 2022 - May 2022
@@ -63,14 +67,20 @@ Top-K ranked results to assist college students in choosing relevant courses bas
 - **Update Dec 2023**: Improved Search functionality with ElasticSearch integration
 - **Technologies**: Python, Scrapy, Scikit-Learn, Flask, ElasticSearch
 
+<img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/ir_system.jpg" height="200"/> <br/>
+
 **Jebra** <br/>
 Aug 2021 – May 2022
 - Developed a responsive front-end for an online math learning game targeted at middle school to high school students in a 
 team of 6 students following the Agile methodology.
 - **Technologies**: React, Typescript, Microsoft Azure, Microsoft SQL Server
 
+<img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/jebra.jpg" height="300"/> <br/>
+
 **Uber IIT** <br/>
 Feb 2021 – May 2021
 - Devised an Uber clone application following an end-to-end software development process from defining requirements to 
 conducting unit tests
 - **Technologies**: Android Studio, Java, Firebase, SQLite
+
+<img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/uber_iit.jpg" height="300"/> <br/>
