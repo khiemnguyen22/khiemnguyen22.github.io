@@ -8,7 +8,7 @@ Master of Science in Computer Science/ Bachelor of Science in Computer Science <
 
 
 ### Work Experience
-**Solutions Engineer Associate - Northwestern Medicine ![](assets/img/nm.jpg)** <br/>
+**![](https://github.com/khiemnguyen22/khiemnguyen22.github.io/blob/main/assets/img/nm.jpg) Solutions Engineer Associate - Northwestern Medicine** <br/>
 Jan 2023 - Present <br/>
 
 **Information Services Intern - Northwestern Medicine** <br/>
