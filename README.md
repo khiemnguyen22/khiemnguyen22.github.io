@@ -1,13 +1,15 @@
 # Solutions Engineer
 
-### Education
-Master of Science in Computer Science/ Bachelor of Science in Computer Science <br/>
+## Education
+- Master of Science in Computer Science | Illinois Institute of Technology (_Dec 2023_)
+- Bachelor of Science in Computer Science | Illinois Institute of Technology (_Dec 2023_) <br/>
 **Relevant Courses**: Software Engineering, Database Organization, Data Structures and Algorithms, Data Mining, Computer Vision. <br/>
-**GPA**: 3.97 (BS), 3.9 (MS) - Awards: Dean's List 2019, 2020, 2021, 2022, 2023.<br/>
+**GPA**: 3.97 (BS), 3.9 (MS) <br/>
+**Awards**: Dean's List 2019, 2020, 2021, 2022, 2023.<br/>
 **Activities**: Upsilon Pi Epsilon Honor Society, ACM, Supplemental Instructor (Academic Resource Center) <br/>
 
 
-### Work Experience
+## Work Experience
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/nm.jpg" height="80"/> <br/>
 **Solutions Engineer Associate - Northwestern Medicine** <br/>
 Jan 2023 - Present <br/>
@@ -36,12 +38,12 @@ May 2021 – Aug 2021
 - Trained and tuned Face Recognition models with 70% accuracy, to be used in an employee’s attendance tracking system.
 - Created a data pipeline for crawling and labeling more than 6,000 images of vehicles using YOLOv5.
 
-### Skills
+## Skills
 - **Languages**: Python (4 years), Java (2 years), C++/C# (1 year), C#, TypeScript, PostgreSQL, MySQL, KQL.
 - **Development** frameworks: .NET, React, Flask, Docker, RESTful APIs, Postman, Firebase, Power BI, TensorFlow,
 PyTorch, Windows, Linux, Git, Agile, Visual Studio Code, Azure DevOps, Azure, Azure Databricks.
 
-### Projects
+## Projects
 
 **Master’s Project** <br/>
 Jan 2023 - Dec 2023
