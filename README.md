@@ -1,5 +1,7 @@
 # Solutions Engineer
 
+**Interests: Software Development, AI/ML, Computer Vision, Generative AI, Information Retrieval, Healthcare and Clinical Data**
+
 ## Education
 - Master of Science in Computer Science | Illinois Institute of Technology (_Dec 2023_)
 - Bachelor of Science in Computer Science | Illinois Institute of Technology (_Dec 2023_)
@@ -45,10 +47,26 @@ PyTorch, Windows, Linux, Git, Agile, Visual Studio Code, Azure DevOps, Azure, Az
 
 ## Projects
 
+**NYT Connections LLM** <br/>
+Jan 2023 - Present
+- Currently working on engineering Generative AI models to solve New York Times' Connections puzzles crawled from a puzzle archive
+- **Technologies**: TinyLlama/TinyLlama-1.1B-Chat-v0.1, Scrapy
+
+<img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/connections.jpg" height="200"/> <br/>
+*([Source](https://slate.com/human-interest/2023/07/nyt-new-york-times-connections-game-worldle.html))*
+
+**Idea Evaluator LLM** <br/>
+Jan 2023
+- Design an algorithmic solution combining Generative AI analytical skills to evaluate circular economy business opportunities and NLP capabilities to display relevant ideas to human investors for a sharper and more efficient decision-making process
+- **Technologies**: PyTorch, Sentense-Transformer, TinyLlama/TinyLlama-1.1B-Chat-v0.1
+
+<img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/earth_hack.jpg" height="200"/> <br/>
+*([Source](https://www.genaicompetition.com/))*
+
 **Master’s Project** <br/>
 Jan 2023 - Dec 2023
 - Research and devise Uncertainty Estimation methods to provide a robust detection algorithm for Cerebral Microbleeds.
-- **Technologies**: Pytorch, Tensorflow, Keras, Numpy 
+- **Technologies**: PyTorch, Tensorflow, Keras, Numpy 
 
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/microbleed.jpg" height="200"/> <br/>
 *Image for illustration only ([Source](https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.110.607184))*
