@@ -2,11 +2,11 @@
 
 ## Education
 - Master of Science in Computer Science | Illinois Institute of Technology (_Dec 2023_)
-- Bachelor of Science in Computer Science | Illinois Institute of Technology (_Dec 2023_) <br/>
-**Relevant Courses**: Software Engineering, Database Organization, Data Structures and Algorithms, Data Mining, Computer Vision. <br/>
-**GPA**: 3.97 (BS), 3.9 (MS) <br/>
-**Awards**: Dean's List 2019, 2020, 2021, 2022, 2023.<br/>
-**Activities**: Upsilon Pi Epsilon Honor Society, ACM, Supplemental Instructor (Academic Resource Center) <br/>
+- Bachelor of Science in Computer Science | Illinois Institute of Technology (_Dec 2023_)
+- **Relevant Courses**: Software Engineering, Database Organization, Data Structures and Algorithms, Data Mining, Computer Vision. <br/>
+- **GPA**: 3.97 (BS), 3.9 (MS) <br/>
+- **Awards**: Dean's List 2019, 2020, 2021, 2022, 2023.<br/>
+- **Activities**: Upsilon Pi Epsilon Honor Society, ACM, Supplemental Instructor (Academic Resource Center) <br/>
 
 
 ## Work Experience
