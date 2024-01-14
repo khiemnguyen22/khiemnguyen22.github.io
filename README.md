@@ -51,6 +51,7 @@ Jan 2023 - Dec 2023
 - **Technologies**: Pytorch, Tensorflow, Keras, Numpy 
 
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/microbleed.jpg" height="200"/> <br/>
+*Image for illustration only ([Source](https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.110.607184))*
 
 **Image Restoration Model** <br/>
 Feb 2022 - May 2022
