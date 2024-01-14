@@ -8,7 +8,8 @@ Master of Science in Computer Science/ Bachelor of Science in Computer Science <
 
 
 ### Work Experience
-![](https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/nm.jpg) **Solutions Engineer Associate - Northwestern Medicine** <br/>
+!<img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/nm.jpg" height="80"/> <br/>
+**Solutions Engineer Associate - Northwestern Medicine** <br/>
 Jan 2023 - Present <br/>
 
 **Information Services Intern - Northwestern Medicine** <br/>
@@ -23,11 +24,13 @@ May 2022 - Dec 2022
 - Constructed Azure Functions and Logic Apps for a Notification System monitoring Azure applications experiencing high volumes of errors every 15 minutes and notifying the developers accordingly.
 - Designed a Power BI dashboard to visualize performance of an R&D application in patient encounters over 4 months
 
+!<img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/instraAI.jpg" height="80"/> <br/>
 **Intern - Instra.AI** <br/>
 Jan 2022 – June 2022
 - Built incremental learning models for classifying custom surgical tools based on an augmented dataset of 4,000 images
 - Developed an interactive React web interface for patients and doctors to keep track of notes from clinic visits
 
+!<img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/tma_solutions.jpg" height="80"/> <br/>
 **AI Intern - TMA Solutions** <br/>
 May 2021 – Aug 2021
 - Trained and tuned Face Recognition models with 70% accuracy, to be used in an employee’s attendance tracking system.
