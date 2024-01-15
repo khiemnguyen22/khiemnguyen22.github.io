@@ -67,7 +67,7 @@ Jan 2023
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/earth_hack.jpg" height="200"/> <br/>
 *([Source](https://www.genaicompetition.com/))*
 
-| **Master’s Project** |
+**Master’s Project** <br/>
 Jan 2023 - Dec 2023
 - Research and devise Uncertainty Estimation methods to provide a robust detection algorithm for Cerebral Microbleeds.
 - **Technologies**: PyTorch, Tensorflow, Keras, Numpy 
