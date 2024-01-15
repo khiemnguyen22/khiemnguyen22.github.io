@@ -47,7 +47,9 @@ PyTorch, Windows, Linux, Git, Agile, Visual Studio Code, Azure DevOps, Azure, Az
 
 ## Projects
 
-**NYT Connections LLM** <br/>
+| **NYT Connections LLM** | Source Code | 
+| - | - |
+
 Jan 2023 - Present
 - Currently working on engineering Generative AI models to solve New York Times' Connections puzzles crawled from a puzzle archive
 - **Technologies**: TinyLlama/TinyLlama-1.1B-Chat-v0.1, Scrapy
@@ -55,7 +57,9 @@ Jan 2023 - Present
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/connections.jpg" height="200"/> <br/>
 *([Source](https://slate.com/human-interest/2023/07/nyt-new-york-times-connections-game-worldle.html))*
 
-**Idea Evaluator LLM** <br/>
+| **Idea Evaluator LLM** | Source Code |
+| - | - |
+
 Jan 2023
 - Design an algorithmic solution combining Generative AI analytical skills to evaluate circular economy business opportunities and NLP capabilities to display relevant ideas to human investors for a sharper and more efficient decision-making process
 - **Technologies**: PyTorch, Sentense-Transformer, TinyLlama/TinyLlama-1.1B-Chat-v0.1
@@ -71,7 +75,8 @@ Jan 2023 - Dec 2023
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/microbleed.jpg" height="200"/> <br/>
 *Image for illustration only ([Source](https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.110.607184))*
 
-**Image Restoration Model** <br/>
+| **Image Restoration Model** | Source Code |
+| - | - |
 Feb 2022 - May 2022
 - Implemented an image denoising model using convolutional auto-encoders with symmetric skip connections on 7000 
 image patches, achieving a PSNR value of 25.46 for noise level = 10.
@@ -79,7 +84,8 @@ image patches, achieving a PSNR value of 25.46 for noise level = 10.
 
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/image_restore.jpg" height="200"/> <br/>
 
-**Simple IR System** <br/>
+| **Simple IR System** | Source Code |
+| - | - |
 Feb 2022 - May 2022
 - Designed a simple search engine crawling 100 Computer Science courses from the Illinois Tech (IIT) websites and displays 
 Top-K ranked results to assist college students in choosing relevant courses based on the description.
@@ -88,7 +94,8 @@ Top-K ranked results to assist college students in choosing relevant courses bas
 
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/ir_system.jpg" height="200"/> <br/>
 
-**Jebra** <br/>
+| **Jebra** | Source Code |
+| - | - |
 Aug 2021 – May 2022
 - Developed a responsive front-end for an online math learning game targeted at middle school to high school students in a 
 team of 6 students following the Agile methodology.
@@ -96,7 +103,8 @@ team of 6 students following the Agile methodology.
 
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/jebra.jpg" height="300"/> <br/>
 
-**Uber IIT** <br/>
+|**Uber IIT** | Source Code |
+| - | - |
 Feb 2021 – May 2021
 - Devised an Uber clone application following an end-to-end software development process from defining requirements to 
 conducting unit tests
