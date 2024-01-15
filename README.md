@@ -49,7 +49,7 @@ PyTorch, Windows, Linux, Git, Agile, Visual Studio Code, Azure DevOps, Azure, Az
 
 ## Projects
 
-| **NYT Connections LLM** | Source Code | 
+| **NYT Connections LLM** | <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/github.jpg" height="15"/> [Source Code](https://github.com/khiemnguyen22/nyt-connections-llm) | 
 
 Jan 2023 - Present
 - Currently working on engineering Generative AI models to solve New York Times' Connections puzzles crawled from a puzzle archive
@@ -58,7 +58,7 @@ Jan 2023 - Present
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/connections.jpg" height="200"/> <br/>
 *([Source](https://slate.com/human-interest/2023/07/nyt-new-york-times-connections-game-worldle.html))*
 
-| **Idea Evaluator LLM** | Source Code |
+| **Idea Evaluator LLM** |  <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/github.jpg" height="15"/> [Source Code](https://github.com/khiemnguyen22/idea-evaluator-llm) |
 
 Jan 2023
 - Design an algorithmic solution combining Generative AI analytical skills to evaluate circular economy business opportunities and NLP capabilities to display relevant ideas to human investors for a sharper and more efficient decision-making process
@@ -67,7 +67,7 @@ Jan 2023
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/earth_hack.jpg" height="200"/> <br/>
 *([Source](https://www.genaicompetition.com/))*
 
-**Master’s Project** <br/>
+| **Master’s Project** |
 Jan 2023 - Dec 2023
 - Research and devise Uncertainty Estimation methods to provide a robust detection algorithm for Cerebral Microbleeds.
 - **Technologies**: PyTorch, Tensorflow, Keras, Numpy 
@@ -75,7 +75,7 @@ Jan 2023 - Dec 2023
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/microbleed.jpg" height="200"/> <br/>
 *Image for illustration only ([Source](https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.110.607184))*
 
-| **Image Restoration Model** | Source Code |
+| **Image Restoration Model** | <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/github.jpg" height="15"/> [Source Code](https://github.com/khiemnguyen22/CS512_final_project) |
 
 Feb 2022 - May 2022
 - Implemented an image denoising model using convolutional auto-encoders with symmetric skip connections on 7000 
@@ -84,7 +84,7 @@ image patches, achieving a PSNR value of 25.46 for noise level = 10.
 
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/image_restore.jpg" height="200"/> <br/>
 
-| **Simple IR System** | Source Code |
+| **Simple IR System** | <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/github.jpg" height="15"/> [Source Code](https://github.com/khiemnguyen22/Simple-IR-System) |
 
 Feb 2022 - May 2022
 - Designed a simple search engine crawling 100 Computer Science courses from the Illinois Tech (IIT) websites and displays 
@@ -94,7 +94,7 @@ Top-K ranked results to assist college students in choosing relevant courses bas
 
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/ir_system.jpg" height="200"/> <br/>
 
-| **Jebra** | Source Code |
+| **Jebra** | <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/github.jpg" height="15"/> [Source Code](https://github.com/khiemnguyen22/Fall-2021-IPRO) |
 
 Aug 2021 – May 2022
 - Developed a responsive front-end for an online math learning game targeted at middle school to high school students in a 
@@ -103,7 +103,7 @@ team of 6 students following the Agile methodology.
 
 <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/jebra.jpg" height="300"/> <br/>
 
-|**Uber IIT** | Source Code |
+| **Uber IIT** | <img src="https://github.com/khiemnguyen22/khiemnguyen22.github.io/raw/main/assets/img/github.jpg" height="15"/> [Source Code](https://github.com/khiemnguyen22/CS487Project) |
 
 Feb 2021 – May 2021
 - Devised an Uber clone application following an end-to-end software development process from defining requirements to 
