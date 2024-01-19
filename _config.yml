@@ -1,4 +1,8 @@
 title: Khiem Nguyen
 logo: assets/img/profile.jpg
-# description: Solutions Engineer
+description: 
+  Solutions Engineer Associate @ Northwestern Medicine | CS@IIT | AI/ML Enthusiast 
+  <br/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <i class="fa fa-linkedin-square"></i> <a href="https://www.linkedin.com/in/khiem-nguyen-19b6a8201/">Linkedin</a>
 theme: jekyll-theme-minimal
